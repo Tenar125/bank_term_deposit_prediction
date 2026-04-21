@@ -39,3 +39,7 @@ Reduces wasted calls
 confusion matrix of random forest model 
 
 <img width="444" height="393" alt="image" src="https://github.com/user-attachments/assets/b8c80908-2c6a-4fdb-a374-dd8de7346e6b" />
+
+
+Insight:
+ut of 1067 actual potential subscribers, the model successfully identifies 896 customers, while missing 171 potential subscribers. Additionally, it incorrectly predicts 227 non-subscribers as subscribers. This indicates that the model is fairly strong but can be improved to reduce missed opportunities.”
