@@ -42,4 +42,4 @@ confusion matrix of random forest model
 
 
 Insight:
-ut of 1067 actual potential subscribers, the model successfully identifies 896 customers, while missing 171 potential subscribers. Additionally, it incorrectly predicts 227 non-subscribers as subscribers. This indicates that the model is fairly strong but can be improved to reduce missed opportunities.”
+Out of 1067 actual potential subscribers, the model successfully identifies 896 customers, while missing 171 potential subscribers. Additionally, it incorrectly predicts 227 non-subscribers as subscribers. This indicates that the model is fairly strong but can be improved to reduce missed opportunities.”
